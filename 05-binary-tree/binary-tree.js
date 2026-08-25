@@ -4,14 +4,6 @@ class Node {
         this.left = null;
         this.right = null;
     }
-
-    search(value) {
-
-    }
-
-    inorder() {
-
-    }
 }
 
 class BST {
